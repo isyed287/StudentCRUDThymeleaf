@@ -1,1 +1,1 @@
-jdbc:sqlserver://serverdb122.database.windows.net:1433;database=springdb;user=admin12@serverdb122;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+jdbc:sqlserver://springboot12.database.windows.net:1433;database=springboot;user=admin12@springboot12;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
